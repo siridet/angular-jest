@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-jest"
+    }
+  },
+  "defaultProject": "ng-jest",
+  "cli": {
+    "analytics": false
+  }
 }
